@@ -18,7 +18,7 @@
 
 # <img src="https://img-premium.flaticon.com/png/512/3775/premium/3775431.png?token=exp=1629945606~hmac=9adfc4e84800d9acf739ad5c90a018d5" alt="drawing" width="30"/> My skills
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/635px-PyTorch_logo_icon.svg.png" alt="drawing" width="30"/> Pytorch
-- <img src="https://img-premium.flaticon.com/png/512/2729/premium/2729635.png?token=exp=1629944475~hmac=7efdd5cba6ffc7d30cff389f9718c982" alt="drawing" width="30"/> Jupyter Notebook
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="drawing" width="30"/> Jupyter Notebook
 - <img src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="drawing" width="30"/> Typescript
 - <img src="https://image.flaticon.com/icons/png/512/919/919851.png" alt="drawing" width="30"/> React
 - <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="drawing" width="30"/> Django Rest
