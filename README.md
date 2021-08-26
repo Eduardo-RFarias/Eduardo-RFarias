@@ -21,7 +21,7 @@
 - <img src="https://img-premium.flaticon.com/png/512/2729/premium/2729635.png?token=exp=1629944475~hmac=7efdd5cba6ffc7d30cff389f9718c982" alt="drawing" width="30"/> Jupyter Notebook
 - <img src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="drawing" width="30"/> Typescript
 - <img src="https://image.flaticon.com/icons/png/512/919/919851.png" alt="drawing" width="30"/> React
-- <img src="https://image.flaticon.com/icons/png/512/919/919852.png" alt="drawing" width="30"/> Django Rest
+- <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="drawing" width="30"/> Django Rest
 - <img src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/product/product_image/1571/mongoDB.jfif" alt="drawing" width="30"/> Mongo DB
 - <img src="https://image.flaticon.com/icons/png/512/919/919853.png" alt="drawing" width="30"/> Docker
 - <img src="https://image.flaticon.com/icons/png/512/3600/3600912.png" alt="drawing" width="30"/> C/C++ Basics
