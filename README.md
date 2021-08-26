@@ -17,7 +17,7 @@
 ### [<img src="https://img-premium.flaticon.com/png/512/2374/premium/2374449.png?token=exp=1629943266~hmac=a742034451323186e0b9814ef7e68da1" alt="drawing" width="30"/>](mailto:eduardo.rfarias@outlook.com) Send me a message
 
 # <img src="https://img-premium.flaticon.com/png/512/3775/premium/3775431.png?token=exp=1629945606~hmac=9adfc4e84800d9acf739ad5c90a018d5" alt="drawing" width="30"/> My skills
-- <img src="https://img-premium.flaticon.com/png/512/751/premium/751244.png?token=exp=1629944410~hmac=c4e88159e88b5bdd94f8d31dbf9e7d22" alt="drawing" width="30"/> Pytorch
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/635px-PyTorch_logo_icon.svg.png" alt="drawing" width="30"/> Pytorch
 - <img src="https://img-premium.flaticon.com/png/512/2729/premium/2729635.png?token=exp=1629944475~hmac=7efdd5cba6ffc7d30cff389f9718c982" alt="drawing" width="30"/> Jupyter Notebook
 - <img src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="drawing" width="30"/> Typescript
 - <img src="https://image.flaticon.com/icons/png/512/919/919851.png" alt="drawing" width="30"/> React
