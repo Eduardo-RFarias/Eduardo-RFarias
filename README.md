@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zNqcSN_E--/c_imagga_scale,f_auto,fl_progressive,h_900,q_66,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif" />
 </p>
+
+<h3 align='center'>
+  Welcome to my profile
+ </h3>
  
 # <img src="https://image.flaticon.com/icons/png/512/236/236832.png" alt="drawing" width="30"/> About me
 - My name is Eduardo Rodrigues de Farias.
@@ -24,6 +28,7 @@
 - <img src="https://fernandofranzini.files.wordpress.com/2019/04/openjdklogo.png?w=705" alt="drawing" width="30"/> Java Basics
 - <img src="https://image.flaticon.com/icons/png/512/1933/1933991.png" alt="drawing" width="30"/> Agile software development
 - <img src="https://image.flaticon.com/icons/png/512/906/906324.png" alt="drawing" width="30"/> VSCode
+- <img src="https://img-premium.flaticon.com/png/512/246/premium/246118.png?token=exp=1629947765~hmac=6f326fd899c9f547b6408d3144bf2b8d" alt="drawing" width="30"/> Linux
 
 # <img src="https://img-premium.flaticon.com/png/512/3327/premium/3327450.png?token=exp=1629945657~hmac=fe934ff65c13330d147804e271a17f1f" alt="drawing" width="30"/> My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-RFarias&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
