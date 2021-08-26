@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" />
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zNqcSN_E--/c_imagga_scale,f_auto,fl_progressive,h_900,q_66,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif" />
 </p>
  
 # <img src="https://image.flaticon.com/icons/png/512/236/236832.png" alt="drawing" width="30"/> About me
 - My name is Eduardo Rodrigues de Farias.
 - I live in Brazil. <img src="https://img-premium.flaticon.com/png/512/186/premium/186203.png?token=exp=1629945764~hmac=677ecf1e1f7e7482a85313cfd18ad8bc" alt="drawing" width="20"/>
 - I'm studying Software engineering 👨‍💻 since 2019 at Brasilia's University (UNB).
-- I'm a very enthusiastic programmer and I look forward to working with fullstack software development.
+- I'm a very enthusiastic programmer and my goal is to work with fullstack software development.
 - I usually work with debian based linux, but I surely am a Windows fan.
 
 
