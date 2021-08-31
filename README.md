@@ -36,3 +36,5 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-RFarias&count_private=true&show_icons=true&theme=github_dark&hide=prs" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-RFarias&layout=compact&theme=github_dark&hide=jupyter%20notebook" />
 </div>
+
+GitHub Stats by anuraghazra: [GitHub Repo](https://github.com/anuraghazra/github-readme-stats)
