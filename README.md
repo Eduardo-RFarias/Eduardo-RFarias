@@ -33,6 +33,6 @@
 # <img src="https://img-premium.flaticon.com/png/512/3327/premium/3327450.png?token=exp=1629945657~hmac=fe934ff65c13330d147804e271a17f1f" alt="drawing" width="30"/> My Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-RFarias&count_private=true&show_icons=true&theme=github_dark&hide=prs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-RFarias&layout=compact&theme=github_dark&hide=jupyter%20notebook" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-RFarias&count_private=true&show_icons=true&theme=github_dark&hide=prs" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-RFarias&layout=compact&theme=github_dark&hide=jupyter%20notebook" />
 </div>
