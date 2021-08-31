@@ -16,7 +16,7 @@
 
 ### [<img src="https://img-premium.flaticon.com/png/512/2374/premium/2374449.png?token=exp=1629943266~hmac=a742034451323186e0b9814ef7e68da1" alt="drawing" width="30"/>](mailto:eduardo.rfarias@outlook.com) Send me a message
 
-# <img src="https://img-premium.flaticon.com/png/512/3775/premium/3775431.png?token=exp=1629945606~hmac=9adfc4e84800d9acf739ad5c90a018d5" alt="drawing" width="30"/> My skills
+# <img src="https://lh3.googleusercontent.com/pKblG15SKq6GodjvklrQ-vdKjghtvdD-gLKNT1sSb8PYOUF8oFyMGkYhGhmyoGJFgYI" alt="drawing" width="30"/> My skills
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/635px-PyTorch_logo_icon.svg.png" alt="drawing" width="30"/> Pytorch
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="drawing" width="30"/> Jupyter Notebook
 - <img src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="drawing" width="30"/> Typescript
