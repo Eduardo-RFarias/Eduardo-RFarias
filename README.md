@@ -8,7 +8,7 @@
  
 # <img src="https://image.flaticon.com/icons/png/512/236/236832.png" alt="drawing" width="30"/> About me
 - My name is Eduardo Rodrigues de Farias.
-- I live in Brazil. <img src="https://img-premium.flaticon.com/png/512/186/premium/186203.png?token=exp=1629945764~hmac=677ecf1e1f7e7482a85313cfd18ad8bc" alt="drawing" width="20"/>
+- I live in Brazil. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" alt="drawing" width="20"/>
 - I'm studying Software engineering 👨‍💻 since 2019 at Brasilia's University (UNB).
 - I'm a very enthusiastic programmer and my goal is to work with fullstack software development.
 - I usually work with debian based linux, but I surely am a Windows fan.
@@ -28,7 +28,7 @@
 - <img src="https://fernandofranzini.files.wordpress.com/2019/04/openjdklogo.png?w=705" alt="drawing" width="30"/> Java Basics
 - <img src="https://image.flaticon.com/icons/png/512/1933/1933991.png" alt="drawing" width="30"/> Agile software development
 - <img src="https://image.flaticon.com/icons/png/512/906/906324.png" alt="drawing" width="30"/> VSCode
-- <img src="https://img-premium.flaticon.com/png/512/246/premium/246118.png?token=exp=1629947765~hmac=6f326fd899c9f547b6408d3144bf2b8d" alt="drawing" width="30"/> Linux
+- <img src="https://w7.pngwing.com/pngs/540/630/png-transparent-ubuntu-linux-debian-computer-software-16-text-computer-logo.png" alt="drawing" width="30"/> Linux
 
 # <img src="https://img-premium.flaticon.com/png/512/3327/premium/3327450.png?token=exp=1629945657~hmac=fe934ff65c13330d147804e271a17f1f" alt="drawing" width="30"/> My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-RFarias&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
