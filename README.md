@@ -31,5 +31,8 @@
 - <img src="https://w7.pngwing.com/pngs/540/630/png-transparent-ubuntu-linux-debian-computer-software-16-text-computer-logo.png" alt="drawing" width="30"/> Linux
 
 # <img src="https://img-premium.flaticon.com/png/512/3327/premium/3327450.png?token=exp=1629945657~hmac=fe934ff65c13330d147804e271a17f1f" alt="drawing" width="30"/> My Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo-RFarias&count_private=true&show_icons=true&theme=github_dark&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-RFarias&layout=compact&theme=github_dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-RFarias&count_private=true&show_icons=true&theme=github_dark&hide=prs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-RFarias&layout=compact&theme=github_dark&hide=jupyter%20notebook" />
+</div>
