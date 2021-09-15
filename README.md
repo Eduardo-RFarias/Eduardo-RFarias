@@ -35,7 +35,7 @@
 # <img src="assets/stats.png" width="30"/> My Stats
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-RFarias&count_private=true&show_icons=true&theme=github_dark&hide=prs" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-RFarias&count_private=true&show_icons=true&theme=github_dark" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-RFarias&layout=compact&theme=github_dark&hide=jupyter%20notebook" />
 </div>
 
