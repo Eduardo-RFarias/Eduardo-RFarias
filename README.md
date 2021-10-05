@@ -15,8 +15,9 @@
 - I'm currently working at a junior company called [EngNet Consultoria <img src="assets/EngNet.png" width="20"/>](https://engnetconsultoria.com.br/).
 - I usually work with debian based linux, but I surely am a Windows fan. <img src="assets/windows.jpg" width="20"/>
 
-### [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="30"/>](mailto:eduardo.rfarias@outlook.com)
-### [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>](https://www.linkedin.com/in/eduardo-rodrigues-de-farias-212962205/)
+### [<img src="./assets/Outlook-badge.svg" height="30"/>](mailto:eduardo.rfarias@outlook.com)
+
+### [<img src="./assets/LinkedIn-badge.svg" height="30"/>](https://www.linkedin.com/in/eduardo-rodrigues-de-farias-212962205/)
 
 # <img src="assets/myskills.jpg" width="30"/> My skills
 
