@@ -26,7 +26,7 @@
 - <img src="assets/typescript.png" width="30"/> Typescript
 - <img src="assets/react.png" width="30"/> React
 - <img src="assets/django.jpg" width="30"/> Django Rest
-- <img src="assets/mongo.jfif" width="30"/> Mongo DB
+- <img src="assets/sql.png" width="30"/> SQL Databases
 - <img src="assets/docker.png" width="30"/> Docker
 - <img src="assets/c.png" width="30"/> C/C++ Basics
 - <img src="assets/java.png" width="30"/> Java Basics
