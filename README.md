@@ -11,7 +11,7 @@
 - I live in Brazil. <img src="assets/Flag_of_Brazil.png" width="20"/>
 - I'm studying Software engineering since 2019 at Brasilia's University (UNB). <img src="assets/UNB.jpg" width="20"/>
 - I'm a very enthusiastic programmer and my goal is to work with fullstack software development.
-- I'm currently a member of the [PanGeiaUnB <img width="20" src="assets/pangeia.png"/>](https://github.com/PanGeiaUnB) study group. 
+- I'm currently a member of the [PanGeiaUnB <img width="20" src="assets/pangeia.jfif"/>](https://github.com/PanGeiaUnB) study group. 
 - I'm currently working at a junior company called [EngNet Consultoria <img src="assets/EngNet.png" width="20"/>](https://engnetconsultoria.com.br/).
 - I usually work with debian based linux, but I surely am a Windows fan. <img src="assets/windows.jpg" width="20"/>
 
