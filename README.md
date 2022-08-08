@@ -10,7 +10,7 @@
 - My name is Eduardo Rodrigues de Farias.
 - I live in Brazil. <img src="assets/Flag_of_Brazil.png" width="20"/>
 - I'm studying Software engineering since 2019 at Brasilia's University (UNB). <img src="assets/UNB.jpg" width="20"/>
-- I'm a very enthusiastic programmer and my goal is to work with fullstack software development.
+- I'm a very enthusiastic programmer and my goal is to be a fullstack software developer or product owner.
 - I'm currently a member of the [PanGeiaUnB <img width="20" src="assets/pangeia.jfif"/>](https://github.com/PanGeia-Study-Group) study group. 
 - I'm currently working at a junior company called [EngNet Consultoria <img src="assets/EngNet.png" width="20"/>](https://engnetconsultoria.com.br/) and a company called [Embrapii](https://embrapii.org.br/).
 - I usually work Windows allied to WSL2. <img src="assets/windows.jpg" width="20"/>
@@ -23,16 +23,19 @@
 
 - <img src="assets/pytorch.png" width="30"/> Pytorch
 - <img src="assets/jupyter.png" width="30"/> Jupyter Notebook
-- <img src="assets/typescript.png" width="30"/> Typescript
-- <img src="assets/react.png" width="30"/> React
-- <img src="assets/django.jpg" width="30"/> Django & Rest
-- <img src="assets/sql.png" width="30"/> SQL Databases
+- <img src="assets/typescript.png" width="30"/> Typescript (Express, Prisma, Jest, Passport, etc)
+- <img src="assets/react.png" width="30"/> React (Redux)
+- <img src="assets/flutter.jpeg" width="30"/> Flutter (Bloc)
+- <img src="assets/django.jpg" width="30"/> Django & Rest Framework
+- <img src="assets/sql.png" width="30"/> Relational Database Management Systems (MySQL, PostgreSQL)
 - <img src="assets/docker.png" width="30"/> Docker
 - <img src="assets/c.png" width="30"/> C/C++ Basics
-- <img src="assets/java.png" width="30"/> Java Basics
-- <img src="assets/agile.png" width="30"/> Agile software development
+- <img src="assets/spring.png" width="30"/> Java Spring Boot
+- <img src="assets/agile.png" width="30"/> Agile software development (XP, Scrum, Kanban, etc)
 - <img src="assets/vs.png" width="30"/> VSCode
-- <img src="assets/ubuntu.png" width="30"/> Linux
+- <img src="assets/linux.png" width="30"/> Ubuntu and Redhat Linux
+- <img src="assets/centos.png" width="30"/> Server Administration Basics (SSH, Nginx, UFW, etc)
+- <img src="assets/team.webp" width="30"/> Team leader at work and tutor at university
 
 # <img src="assets/stats.png" width="30"/> My Stats
 
