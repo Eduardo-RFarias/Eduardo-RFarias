@@ -1,3 +1,7 @@
+<div>
+  <img height="40em" align="right" src="https://komarev.com/ghpvc/?username=Eduardo-RFarias&style=for-the-badge&color=4c8eda" />
+</div>
+
 <p align="center">
   <img src="assets/header.gif" />
 </p>
